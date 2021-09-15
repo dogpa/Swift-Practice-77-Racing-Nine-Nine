@@ -13,6 +13,7 @@
 		2D1D315026F1C22500579F4C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D1D314E26F1C22500579F4C /* Main.storyboard */; };
 		2D1D315226F1C22700579F4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D1D315126F1C22700579F4C /* Assets.xcassets */; };
 		2D1D315526F1C22700579F4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D1D315326F1C22700579F4C /* LaunchScreen.storyboard */; };
+		2D1D315D26F1C61700579F4C /* TwoPlayerSameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1D315C26F1C61700579F4C /* TwoPlayerSameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2D1D315126F1C22700579F4C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D1D315426F1C22700579F4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D1D315626F1C22700579F4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D1D315C26F1C61700579F4C /* TwoPlayerSameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoPlayerSameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2D1D314826F1C22500579F4C /* AppDelegate.swift */,
 				2D1D314A26F1C22500579F4C /* SceneDelegate.swift */,
 				2D1D314C26F1C22500579F4C /* ViewController.swift */,
+				2D1D315C26F1C61700579F4C /* TwoPlayerSameViewController.swift */,
 				2D1D314E26F1C22500579F4C /* Main.storyboard */,
 				2D1D315126F1C22700579F4C /* Assets.xcassets */,
 				2D1D315326F1C22700579F4C /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D1D315D26F1C61700579F4C /* TwoPlayerSameViewController.swift in Sources */,
 				2D1D314D26F1C22500579F4C /* ViewController.swift in Sources */,
 				2D1D314926F1C22500579F4C /* AppDelegate.swift in Sources */,
 				2D1D314B26F1C22500579F4C /* SceneDelegate.swift in Sources */,
